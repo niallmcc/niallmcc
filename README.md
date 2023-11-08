@@ -1,4 +1,3 @@
-# niallmcc.github.io
 
 ## Featured Projects
 
