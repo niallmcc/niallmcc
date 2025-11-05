@@ -7,7 +7,5 @@
 
 [self organising maps, GPU enabled implementation in python3](https://github.com/niallmcc/som)
 
-[treehaus - experimental append only B-tree based database](https://github.com/niallmcc/treehaus)
-
 [napari slstr - uses the amazing napari library to view and annotate EO data](https://github.com/surftemp/napari-slstr)
 
